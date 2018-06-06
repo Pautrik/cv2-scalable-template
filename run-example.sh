@@ -1,0 +1,1 @@
+python3 imagesearch.py --template template.jpg --images image-dir
